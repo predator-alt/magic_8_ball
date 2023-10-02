@@ -5,7 +5,7 @@ def getAnswer(answerNumber):
 	elif answerNumber==2:
 		return "It is decidedly so"
 	elif answerNumber==3:
-		return "Yes"
+		return "Better luck next time"
 	elif answerNumber==4:
 		return "reply hazy turn again"
 	elif answerNumber==5:
